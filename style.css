@@ -6,12 +6,12 @@ body {
     background-color: #f4f4f4;
 }
 .profile-image {
-    width: 250px; /* Increased width */
-    height: 250px; /* Set height equal to width for a circular shape */
-    border-radius: 50%; /* Make it circular */
-    border: 5px solid #00c6ff; /* Adjusted border width */
-    box-shadow: 0 0 20px rgba(0, 198, 255, 0.7); /* Slightly stronger glow effect */
-    margin-bottom: 20px; /* Space below the image */
+    width: 250px; 
+    height: 250px; 
+    border-radius: 50%; 
+    border: 5px solid #00c6ff; 
+    box-shadow: 0 0 20px rgba(0, 198, 255, 0.7);
+    margin-bottom: 20px; 
 }
 header {
     background: linear-gradient(135deg, #006eff, #00c6ff);
@@ -25,7 +25,7 @@ header {
 header nav ul {
     list-style: none;
     padding: 0;
-    margin: 10px 0; /* Add margin for spacing */
+    margin: 10px 0; 
 }
 
 header nav ul li {
